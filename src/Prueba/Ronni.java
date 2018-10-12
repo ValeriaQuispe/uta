@@ -10,5 +10,7 @@ package Prueba;
  * @author Ronni
  */
 public class Ronni {
-    
+    public static void main(String[] args) {
+        // este es tuyo .|.
+    }
 }
